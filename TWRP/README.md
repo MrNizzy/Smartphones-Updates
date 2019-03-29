@@ -30,10 +30,10 @@ adb-setup.exe
 
 #### STEP/PASO #1:
 
-* [Descargar/Download]() - Herramientas ADB
+* [Descargar/Download]() - Herramientas ADB (Archivos que permiten la ejecución de los comandos)
 * Descomprimir:
 ```
-adb-tools.zip
+AUTO [TWRP].zip
 ```
 * [Descargar/Download]() - TWRP dependiendo de su dispositivo.
 * Descomprimir:
