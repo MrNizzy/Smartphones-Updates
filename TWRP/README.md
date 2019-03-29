@@ -27,3 +27,21 @@ adb-setup.exe
 * [OTHER VERSIONS](https://build.nethunter.com/android-tools/no-verity-opt-encrypt/) - no-verity-opt-encrypt builds
 
 ### _Instalar herramienta TWRP:_
+
+#### STEP/PASO #1:
+
+* [Descargar/Download]() - Herramientas ADB
+* Descomprimir:
+```
+adb-tools.zip
+```
+* [Descargar/Download]() - TWRP dependiendo de su dispositivo.
+* Descomprimir:
+```
+twrp.zip
+```
+[Descargar/Download](https://twrp.me/Devices/) - TWRP para otros dispositivos (En caso de no hallarlo en la lista)
+</br>
+* Pasar el Archivo ```twrp.img``` a la carpeta donde se encuentran las herramientas ADB.
+
+#### STEP/PASO #2:
