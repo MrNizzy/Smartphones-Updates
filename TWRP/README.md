@@ -30,12 +30,12 @@ adb-setup.exe
 
 #### STEP/PASO #1:
 
-* [Descargar/Download]() - Herramientas ADB (Archivos que permiten la ejecución de los comandos)
+* [Descargar/Download](https://github.com/Nizzy0128/Smartphones-Updates/raw/master/TWRP/AUTO%20%5BTWRP%5D.zip) - Herramientas ADB (Archivos que permiten la ejecución de los comandos)
 * Descomprimir:
 ```
 AUTO [TWRP].zip
 ```
-* [Descargar/Download]() - TWRP dependiendo de su dispositivo.
+* [Descargar/Download]() - TWRP dependiendo de su dispositivo. (Carpetas de arriba)
 * Descomprimir:
 ```
 twrp.zip
