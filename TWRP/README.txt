@@ -1,0 +1,1 @@
+INSTALL "adb-setup.exe"
