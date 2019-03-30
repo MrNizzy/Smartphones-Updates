@@ -31,7 +31,7 @@ adb-setup.exe
 ```
 AUTO [TWRP].zip
 ```
-* [Descargar/Download]() - TWRP dependiendo de su dispositivo. (Carpetas de arriba)
+* [Descargar/Download](https://github.com/Nizzy0128/Smartphones-Updates/tree/master/TWRP) - TWRP dependiendo de su dispositivo. (Carpetas de arriba)
 * Descomprimir:
 ```
 twrp.zip
