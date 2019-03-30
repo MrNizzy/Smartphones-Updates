@@ -9,7 +9,10 @@
 * [Magisk](https://magiskmanager.com) - Magisk Manager
 * [LuckyPatcher](https://luckypatcher.co/apk-download-app/) - Lucky Patcher
 
-## WIKI
+# WIKI
+
+## ¡Importante!
+Algunos dispositivos requieren liberar el ```Bootloader``` si no saben como se hace, buscar un vídeo en YouTube o Foros de como hacer este procedimiento ya que para muchas marcas (Samsung, Xiaomi, Motorola, Sony Xperia, etc) son totalmente diferentes los métodos.
 
 ### _INSTALAR:_
 
@@ -59,7 +62,7 @@ FLASH RECOVERY AUTO.bat
 
 <a href="https://bit.ly/2Ujp1KD"><img src="https://i.ibb.co/tcbpVH3/maxresdefault.jpg" alt="Smartphones" border="0"><img/><br />
 
-### STEP/PASO Extra #2:
+#### STEP/PASO Extra #2:
 * []()Para poder continuar, debemos poner nuestro smartphone en modo fastboot. Si no sabes como hacerlo solo busca en [Google](https://google.com/) ```¿Cómo entrar al modo fastboot en un <Nombre del dispositivo>?``` ahí saldrán muchos foros y/o vídeos de como hacerlo, aunque es muy fácil.
 * Una vez este en modo fastboot, conectamos el dispositivo al computador, y ejecutamos el siguiente comando para saber si nuestro equipo reconoce el dispositivo: ```fastboot devices``` si no lo reconoce no debe salir nada.
 * Luego que nos cercioremos de que lo reconozca, procederemos a instalar el ```twrp.img```. Para ello escribimos el siguiente comando:
