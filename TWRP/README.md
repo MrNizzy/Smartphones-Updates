@@ -46,7 +46,8 @@ twrp.zip
 [Descargar/Download](https://twrp.me/Devices/) - TWRP para otros dispositivos (En caso de no hallarlo en la lista)
 </br>
 * Pasar el Archivo ```twrp.img``` a la carpeta donde se encuentran las herramientas ADB.
-* Por último ejecutamos el archivo:
+* Para poder continuar, debemos poner nuestro smartphone en modo fastboot. Si no sabes como hacerlo solo busca en [Google](https://google.com/) ```¿Cómo entrar al modo fastboot en un <Nombre del dispositivo>?``` ahí saldrán muchos foros y/o vídeos de como hacerlo, aunque es muy fácil.
+* Por último conectamos el dispositivo al computador y ejecutamos el archivo:
 ```
 FLASH RECOVERY AUTO.bat
 ```
