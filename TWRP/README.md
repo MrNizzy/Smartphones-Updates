@@ -21,13 +21,6 @@ Algunos dispositivos requieren liberar el ```Bootloader``` si no saben como se h
 ```
 adb-setup.exe
 ```
-### _Herramienta de no-verity-opt-encrypt:_
-
-* [Descargar/Download](https://build.nethunter.com/android-tools/no-verity-opt-encrypt/no-verity-opt-encrypt-6.0.zip) - no-verity-opt-encrypt v6.0
-* [Descargar/Download](https://build.nethunter.com/android-tools/no-verity-opt-encrypt/no-verity-opt-encrypt-5.1.zip) - no-verity-opt-encrypt v5.1
-* [Descargar/Download](https://build.nethunter.com/android-tools/no-verity-opt-encrypt/no-verity-opt-encrypt-4.1.zip) - no-verity-opt-encrypt v4.1
-* [Descargar/Download](https://build.nethunter.com/android-tools/no-verity-opt-encrypt/no-verity-opt-encrypt-3.2.zip) - no-verity-opt-encrypt v3.2
-* [OTHER VERSIONS](https://build.nethunter.com/android-tools/no-verity-opt-encrypt/) - no-verity-opt-encrypt builds
 
 ### _Instalar herramienta TWRP:_
 
