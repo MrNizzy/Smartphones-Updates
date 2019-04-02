@@ -8,3 +8,5 @@
 * [LineageOS](https://download.lineageos.org) - LineageOS
 * [Magisk](https://magiskmanager.com) - Magisk Manager
 * [LuckyPatcher](https://luckypatcher.co/apk-download-app/) - Lucky Patcher
+
+3743
